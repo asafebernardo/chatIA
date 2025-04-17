@@ -308,7 +308,7 @@
       "Ajax": "",
       "Destino": "Sistema > Cadastros > Contratos > Produtos > Descontos",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-248",
       "Requisicao": ""
     },
     {
@@ -336,11 +336,19 @@
       "Requisicao": ""
     },
     {
+      "Rota": "reenviar_link_assnatura_digital",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Assinatura digital > Reenviar link de assinatura digital",
+      "Liberado": "✅",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-474",
+      "Requisicao": ""
+    },
+    {
       "Rota": "liberacao_reducao_contrato_29157",
       "Ajax": "",
       "Destino": "Sistema > Cadastros > Contratos > Redução de velocidade > Liberar",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-347",
       "Requisicao": ""
     },
     {
@@ -396,7 +404,7 @@
       "Ajax": "",
       "Destino": "Sistema > Cadastros > Clientes > Histórico",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-249",
       "Requisicao": ""
     },
     {
@@ -620,7 +628,7 @@
       "Ajax": "",
       "Destino": "Sistema > Cadastros > Clientes > Saídas",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-319",
       "Requisicao": ""
     },
     {
@@ -656,19 +664,29 @@
       "Requisicao": ""
     },
     {
+      "Rota": "gerar_documento_assinatura_digital",
+      "Ajax": "",
+      "Destino": "Sistema > Contratos > Assinatura digital > Gerar novo documento de assinatura digital",
+      "Liberado": "✅",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-474",
+      "Requisicao": ""
+    },
+
+    {
       "Rota": "consulta_spc_serasa",
       "Ajax": "",
       "Destino": "Sistema > Cadastros > Clientes > Análise de credito",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-214",
       "Requisicao": ""
     },
+
     {
       "Rota": "fatura",
       "Ajax": "",
       "Destino": "Sistema > Cadastros > Contratos > Faturas",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/IPFI-13094",
       "Requisicao": ""
     },
     {
@@ -804,7 +822,7 @@
       "Ajax": "",
       "Destino": "Sistema > CRM > Pasta Sistema > Cadastros > Gateway SMS > Log",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-73",
       "Requisicao": ""
     },
     {
@@ -860,7 +878,7 @@
       "Ajax": "",
       "Destino": "Sistema > CRM > Pasta Prospecções > Funil de vendas",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-196",
       "Requisicao": ""
     },
     {
@@ -868,7 +886,7 @@
       "Ajax": "",
       "Destino": "Sistema > CRM > Pasta Prospecções > Funil de vendas > Estágios",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-197",
       "Requisicao": ""
     },
     {
@@ -964,7 +982,7 @@
       "Ajax": "",
       "Destino": "Sistema > Entradas > Requisição de compra > Produtos",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-21",
       "Requisicao": ""
     },
     {
@@ -1020,7 +1038,23 @@
       "Ajax": "",
       "Destino": "Sistema > Entradas > Compra > Pedido de Compra",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-233",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "enviar_pedido_fornecedor",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Compra > Pedido de Compra > Enviar pedido para o fornecedor",
+      "Liberado": "✅",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-420",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "imprimir_pedido_compra",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Compra > Pedido de Compra > Imprimir Pedido",
+      "Liberado": "✅",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-425",
       "Requisicao": ""
     },
     {
@@ -1028,15 +1062,23 @@
       "Ajax": "",
       "Destino": "Sistema > Entradas > Pedido de compra > Requisição de compra",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-231",
       "Requisicao": ""
+    },
+    {
+      "Rota": "liberar_requisicao_compra",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Compra > Requisição de compra > Liberar requisição",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": "https://ixcsoft.atlassian.net/browse/API-419"
     },
     {
       "Rota": "pedido_compra_itens",
       "Ajax": "",
       "Destino": "Compra > Pedido de compra > Produtos",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-383",
       "Requisicao": ""
     },
     {
@@ -1140,7 +1182,7 @@
       "Ajax": "",
       "Destino": "Retorna o saldo dos produtos por almoxarifado e filial",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-329",
       "Requisicao": ""
     },
     {
@@ -1148,7 +1190,7 @@
       "Ajax": "",
       "Destino": "Sistema > Estoque > Transferências > Registro de transferências > Produtos",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-410",
       "Requisicao": ""
     },
     {
@@ -1156,7 +1198,7 @@
       "Ajax": "",
       "Destino": "Sistema > Estoque > Transferências > Registro de transferências",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-409",
       "Requisicao": ""
     },
     {
@@ -1324,7 +1366,7 @@
       "Ajax": "",
       "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de atendimento > Listar portas",
       "Liberado": "❌",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/IPFI-2149",
       "Requisicao": ""
     },
     {
@@ -1364,7 +1406,7 @@
       "Ajax": "",
       "Destino": "",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/IMDK-7136",
       "Requisicao": ""
     },
     {
@@ -1373,14 +1415,14 @@
       "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de atendimento > Imagens",
       "Liberado": "✅",
       "Jira": "",
-      "Requisicao": ""
+      "Requisicao": "https://ixcsoft.atlassian.net/browse/API-436"
     },
     {
       "Rota": "message_integrations",
       "Ajax": "",
       "Destino": "Configurações > Integrações > Integrações de mensagens",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/ENES-182",
       "Requisicao": ""
     },
     {
@@ -1420,7 +1462,7 @@
       "Ajax": "",
       "Destino": "Configurações > Logs > Logs de e-mails",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-62",
       "Requisicao": ""
     },
     {
@@ -1652,7 +1694,7 @@
       "Ajax": "",
       "Destino": "Sistema > Provedor > Concentradores (NAS) > Teste de conexão",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-47",
       "Requisicao": ""
     },
     {
@@ -1676,7 +1718,7 @@
       "Ajax": "",
       "Destino": "Sistema > Provedor > Autorizar ONU",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/IPFI-3319",
       "Requisicao": ""
     },
     {
@@ -1708,7 +1750,7 @@
       "Ajax": "",
       "Destino": "Sistema > Provedor > Autorizar ONU's > Consultar todas",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-306",
       "Requisicao": ""
     },
     {
@@ -1740,7 +1782,7 @@
       "Ajax": "",
       "Destino": "Sistema > Provedor > Pasta Pool IP > Pool Concentrador",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-207",
       "Requisicao": ""
     },
     {
@@ -1764,7 +1806,7 @@
       "Ajax": "",
       "Destino": "Sistema > Provedor > Autorizar ONUs > Autorizar ONU",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/IPFI-3319",
       "Requisicao": ""
     },
     {
@@ -1772,7 +1814,7 @@
       "Ajax": "",
       "Destino": "Sistema > Provedor > Pasta Transmissores > Perfil cliente fibra",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/IPFI-3319",
       "Requisicao": ""
     },
     {
@@ -1780,7 +1822,7 @@
       "Ajax": "",
       "Destino": "Sistema > Provedor > Clientes Fibra (ONU) > Integração OLT > Gravar dispositivo",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/IPFI-3319",
       "Requisicao": ""
     },
     {
@@ -1956,7 +1998,7 @@
       "Ajax": "",
       "Destino": "Sistema > Provedor > Pasta Autenticação Radius > Concentradores autorizados",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-257",
       "Requisicao": ""
     },
     {
@@ -2004,7 +2046,7 @@
       "Ajax": "",
       "Destino": "Receber > Contas a receber > Estornar cancelamento",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-26",
       "Requisicao": ""
     },
     {
@@ -2020,7 +2062,7 @@
       "Ajax": "",
       "Destino": "Receber > Renegociação > Parcelamento > Calcular multa/juros",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-241",
       "Requisicao": ""
     },
     {
@@ -2028,7 +2070,7 @@
       "Ajax": "",
       "Destino": "Renegociação > Editar > Em renegociação > Adicionar",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-304",
       "Requisicao": ""
     },
     {
@@ -2036,7 +2078,7 @@
       "Ajax": "",
       "Destino": "Renegociação > Editar > Em renegociação > Remover",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-305",
       "Requisicao": ""
     },
     {
@@ -2196,7 +2238,7 @@
       "Ajax": "",
       "Destino": "Sistema > Saídas > Pasta Pedidos > Pedidos de ordem de serviço",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-222",
       "Requisicao": ""
     },
     {
@@ -2412,7 +2454,7 @@
       "Ajax": "",
       "Destino": "Sistema > Suporte > Pasta Sistema > Cadastros > Equipes > Colaboradores da Equipe",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/API-223",
       "Requisicao": ""
     },
     {
@@ -2420,7 +2462,7 @@
       "Ajax": "",
       "Destino": "",
       "Liberado": "✅",
-      "Jira": "",
+      "Jira": "https://ixcsoft.atlassian.net/browse/IPPE-200",
       "Requisicao": ""
     },
     {
