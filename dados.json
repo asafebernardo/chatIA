@@ -1,0 +1,3282 @@
+[
+    {
+      "Rota": "cliente_arquivo",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Arquivos > Visualizar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_15300",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Status acesso > Bloquear",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_produto_estrutura_consumo",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Estruturas > Outros produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_arquivos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Arquivos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_contratos_produtos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos >  Produtos > Novo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_tipo",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Contratos > Tipo de cobrança",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "condicoes_pagamento",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Financeiro > Condições de pagamento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_contratos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Contratos > Planos de venda",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vendedor",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Fornecedores > Vendedores",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_modelo",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Contratos > Modelos contrato de cliente",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_comodato",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos >  Comodato",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "view_vd_contratos_produtos_gen",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "api_get_produtos_contrato",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "estrutura",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Estruturas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "contas",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Financeiro > Contas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_servicos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos >  Serviços Adicionais",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fornecedor",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Fornecedor",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_contratos_produtos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Contratos > Planos de venda >  Planos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_ativar_cliente",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Ativar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "produtos_unidades",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Produtos >  Unidades",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "unidades",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Produtos > Unidades",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_btn_lib_temp_24722",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Ações > Liberar temporariamente",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_recebimentos_baixas_novo",
+      "Ajax": "",
+      "Destino": "Sistema > Contas a receber > Receber",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_carteira_cobranca",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Financeiro > Carteira de cobrança",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_imprimir_contrato_17678",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Imprimir > Contrato",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_altera",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Financeiro > Outras ações > Alterar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_15464",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Status acesso > Liberar manualmente",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_23529",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Status acesso > Aguardando assinatura",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_15463",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Status acesso > Avisar atraso",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_servicos_param",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Contratos > Parâmetros de desconto/acréscimo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_descontos_servicos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Descontos Adicionais",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "baixar_produto_outro",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Estruturas > Outros produtos > Baixar > Meu almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "tv_usuarios",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta TV > Login TV",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_desc_serv",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Contratos > Serviços e descontos adicionais",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "liberar_temporario_24722",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Ações > Liberar temporariamente",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_produtos_reajuste_valor",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Contratos > Reajuste valor de contrato (acréscimos)",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_descontos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Produtos > Descontos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "gerar_acrescimo_25243",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Contratos > Gerar acréscimos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "baixar_comodato_23069",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Comodato > Baixar > Outro almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_endereco_19479",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Endereço > Validar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "liberacao_reducao_contrato_29157",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Redução de velocidade > Liberar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "tv_usuarios",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > TV",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "baixar_comodato_19793",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Comodato > Baixar > Meu almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_21517",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Imprimir > Contrato permanência",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_26658",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Contato >  Enviar SMS",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_28088",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Termos > Imprimir",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_assinatura_termo",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Termos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_historico",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Histórico",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_acrescimos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Produtos > Acréscimos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "produtos_ixc_mvno",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Produtos > Telefonia Móvel",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_feriados",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Financeiro > Feriados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "tipo_cliente",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Clientes > Tipo de clientes",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "baixar_produto_imobilizado_outro_almox",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Estruturas > Patrimônio > Baixar > Outro almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_20939",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Imprimir > Termo de adesão personalizado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "baixar_produto_imobilizado",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Estruturas > Patrimônio > Baixar > Meu almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_produto_estrutura",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Estruturas > Patrimônio",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fr_faturamento_classificacoes",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Produtos > Classificação produtos franquia",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_Ajax_15343",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Ações > Atualizar pago até",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "produtos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "grupo_produtos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Produtos > Grupo de Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "sub_grupo_produdos",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Produtos > Subgrupos de produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_condominio",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Clientes > Condomínios",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "liberacao_reducao_contrato_29154",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Ações > Liberação de redução de velocidade",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_mot_cancelamento",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Financeiro > Motivo de cancelamento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "indicacao_contrato",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Indicado através",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "gerar_financeiro_contrato_15314",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Financeiro > Gerar financeiro",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cidade",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Locais > Cidade",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "sva_usuarios",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > SVA",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "analise_credito",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Análise de crédito > Consulta de crédito",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "desativar_cancelar_financeiro_nao_vencido",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Status > Cancelar contrato e financeiro não vencido",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botaoAjax_22282",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Envia notificação push",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_alt_plano",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Alterações",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "baixar_produto_outro_almox",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Estruturas > Outros produtos > Baixar > Outro almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "ativar_usuario_playhub",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > TV > Ativar Usuário",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "desativar_usuario_playhub",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > TV > Desativar Usuário",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_saida_agrupamento",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Saídas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "descartar_produto",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Estruturas > Outros produtos > Descartar produto",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_renegociacao_wiz",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Financeiro > Outras ações > Renegociar selecionados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "desbloqueio_confianca",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Desbloqueio Confiança > Desbloqueio de confiança",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "voip_sippeers",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Linha SIP",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "consulta_spc_serasa",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Clientes > Análise de credito",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fatura",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Contratos > Faturas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "tipo_documento",
+      "Ajax": "",
+      "Destino": "Configurações > Configurações Documentos > Tipo documento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_movim_finan_receber",
+      "Ajax": "",
+      "Destino": "Sistema > Contabilidade > Contabilidade > Recebimentos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_movim_finan",
+      "Ajax": "",
+      "Destino": "Sistema > Contabilidade > Contabilidade",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_movim_finan_debito",
+      "Ajax": "",
+      "Destino": "Sistema > Contabilidade > Contabilidade > Lançamentos á débito",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_movim_finan_credito",
+      "Ajax": "",
+      "Destino": "Sistema > Contabilidade > Contabilidade > Lançamentos á crédito",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_campanha",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Marketing > Campanhas de venda",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "contato",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Leads",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "contato_tipo",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Sistema > Cadastros > Tipos de contato",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_tipo_candidato",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Sistema > Cadastros > Canal de vendas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_perfil",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Prospecções > Campo Perfil",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_canditados",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Prospecções",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_prospeccao_propostas",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Prospecções > Propostas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_cobranca_historico",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Cobrança > Cobranças > Histórico",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_concorrente",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Prospecções > Campo Concorrente",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_planos_negociacoes",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Sistema > Cadastros > Planos de negociações",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_emails",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Prospecções > E-mails enviados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_sms_log",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Sistema > Cadastros > Gateway SMS > Log",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_canditados_27847",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Leads > Converter em Prospect",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_negociacoes",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Negociações",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_substatus",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Negociações > Negociação > Campo Substatus",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_negociacoes_perdemos_data",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Negociações > Perdemos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_negociacoes_simplificado",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Negociações > Vencemos > Simplificado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_negociacoes_29028",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Negociações > Vencemos > Wizard",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_funil",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Prospecções > Funil de vendas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_negociacoes_estagios",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Prospecções > Funil de vendas > Estágios",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_negociacoes_29334",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Negociações > Perdemos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "caixa_proxima_disponivel",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Leads > Verificar caixa mais próxima disponível",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "smtp",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Sistema > Cadastros > Contas de e-mail",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_negociacoes_produtos",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Negociações > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_canditados_23184",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Prospecção > Endereço > Validar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_prospeccao_anotacoes",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Prospecção > Anotações",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_modelo_email",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Sistema > Cadastros > Modelos e-mail",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botaoAjax_22264",
+      "Ajax": "",
+      "Destino": "Sistema > CRM > Pasta Prospecções > Propostas > Enviar e-mail",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "filial",
+      "Ajax": "",
+      "Destino": "Configurações > Empresa > Filiais",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "empresa",
+      "Ajax": "",
+      "Destino": "Configurações > Empresa > Empresa",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_movim_finan",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Compra > Contabilidade",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_compra_itens",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Requisição de compra > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "movimento_produtos",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Compra > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "entrada",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Compra",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "pedido_compra",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Pedido de compra",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_compra",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Requisição de compra",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "liberar_pedido",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Pedido de compra > Liberar Pedido",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "pedido_compra_cancelar",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Pedido de compra > Cancelar pedido",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "entrada_pedido",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Compra > Pedido de Compra",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "pedido_requiasicao",
+      "Ajax": "",
+      "Destino": "Sistema > Entradas > Pedido de compra > Requisição de compra",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "pedido_compra_itens",
+      "Ajax": "",
+      "Destino": "Compra > Pedido de compra > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_material",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Requisitar materiais",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "almox",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Almoxarifados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "patrimonio",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Patrimônios > Buscar todas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "item_patrimonio",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Patrimônios > Buscar todas > Editar > Composição patrimonial",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "transf_almox_top",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Pasta Transferências > Transferência entre almoxarifados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_material_item",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Requisitar materiais > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "transf_almox_item",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Pasta Transferências > Transferência entre almoxarifados > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_devolucao_material",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Pasta Transferências > Transferência com confirmação",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "itens_Requisicao_devolucao_material",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Pasta Transferências >  Transferência com confirmação > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "estoque_min_max_almox",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Almoxarifado > Estoque mínimo e máximo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_devolucao_material_29115",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Pasta Transferências > Transferência com confirmação > Cancelar Pedido",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "inutilizar_patrimonio",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Patrimônios > Buscar totas > Inutilizar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "estoque_produtos_almox_filial",
+      "Ajax": "",
+      "Destino": "Retorna o saldo dos produtos por almoxarifado e filial",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "transf_automatica_produtos",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Transferências > Registro de transferências > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "transf_automatica",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Transferências > Registro de transferências",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_cedente",
+      "Ajax": "",
+      "Destino": "Sistema > Financeiro > Pasta Gateways de pagamento > Retorno de pagamento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "transferencia_contas_18740",
+      "Ajax": "",
+      "Destino": "Sistema > Financeiro > Transferir",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cnf_classificacao_tributaria",
+      "Ajax": "",
+      "Destino": "Sistema > Fiscal > Classificação tributária",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "empresa_setor",
+      "Ajax": "",
+      "Destino": "Sistema > Folha de pagamento > Pasta Sistema > Cadastros > Setor",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "funcionario_setores",
+      "Ajax": "",
+      "Destino": "Sistema > Folha de pagamento > Colaboradores > Setores",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "funcionario_setores",
+      "Ajax": "",
+      "Destino": "Sistema > Folha de pagamento > Pasta Cadastro > Setor > Colaboradores",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_ticket_setor",
+      "Ajax": "",
+      "Destino": "Sistema > Folha de pagamento > Pasta Sistema > Cadastros > Setor",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "funcionarios",
+      "Ajax": "",
+      "Destino": "Sistema > Folha de pagamento > Colaboradores",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fl_adto_salario",
+      "Ajax": "",
+      "Destino": "Sistema > Folha de pagamento > Adiantamento de salários",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "veiculos",
+      "Ajax": "",
+      "Destino": "Sistema > FRota > Veículos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "veiculos_tracker",
+      "Ajax": "",
+      "Destino": "Sistema > FRota > Veículos - Rastreamento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "veiculos_tracker",
+      "Ajax": "",
+      "Destino": "Sistema > Folha de pagamento > Colaboradores > Rastreador",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "veiculos_despesas",
+      "Ajax": "",
+      "Destino": "Sistema > FRota > Veículos despesas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "configuracao_geral",
+      "Ajax": "",
+      "Destino": "Sistema > Hotsite > Pasta  Configuração geral",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "hs_adm_artigos",
+      "Ajax": "",
+      "Destino": "Sistema > Hotsite > Pasta Conteúdo > Administrar artigos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "hs_produtos_dados",
+      "Ajax": "",
+      "Destino": "Sistema > Hotsite > Pasta E-commerce > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rad_caixa_ftth_tecnologia",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de atendimento > Campo Tecnologia",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rad_caixa_ftth",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de atendimento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "df_projeto",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta Elementos > Projetos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "viabilidade_tecnica",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Sales/Fiberdocs > Clique na Região > Clique com Mouse Direito > Verificar opções de viabilidade",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rad_porta_ftth",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de atendimento > Listar portas",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "df_tipo_elemento_regiao",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta  Configurações de regiões de cobertura",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "df_elemento",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de emenda",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "df_elemento_coordenada",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de emenda > Coordenadas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rad_caixa_ftth_imagem",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de atendimento > Imagens",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "consultar_regiao_manutencao",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "elemento_arquivos",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta Elementos > Caixas de atendimento > Imagens",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "message_integrations",
+      "Ajax": "",
+      "Destino": "Configurações > Integrações > Integrações de mensagens",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "smtp",
+      "Ajax": "",
+      "Destino": "Configurações > Integrações > E-mail SMTP",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "ixc_logs",
+      "Ajax": "",
+      "Destino": "Configurações > Logs > Logs dos usuários",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "log_backup",
+      "Ajax": "",
+      "Destino": "Configurações > Logs > Logs de backup",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "log_tarefa_gateway",
+      "Ajax": "",
+      "Destino": "Configurações > Logs > Logs gateway",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "crm_email_log",
+      "Ajax": "",
+      "Destino": "Configurações > Logs > Logs de e-mails",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "configuracao_mvno",
+      "Ajax": "",
+      "Destino": "Sistema > MVNO/Telefonia móvel > Produtos IXC/MVNO > Buscar ID Integração",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "linha_mvno",
+      "Ajax": "",
+      "Destino": "Sistema > MVNO/Telefonia móvel > Assinantes",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "df_tipo_elemento",
+      "Ajax": "",
+      "Destino": "Sistema > Inmap > Pasta  Configurações de regiões de cobertura/Configurações de cabo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_apagar",
+      "Ajax": "",
+      "Destino": "Sistema > Pagar > Contas a pagar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_apagar_pagamentos_baixas",
+      "Ajax": "",
+      "Destino": "Sistema > Pagar > Contas a Sistema > Pagar > Sistema > Pagar > Pagar manualmente",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_estornar_cancelamento_26200",
+      "Ajax": "",
+      "Destino": "Sistema > Pagar > Contas a Sistema > Pagar > Estornar cancelamento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "parametros_financeiro",
+      "Ajax": "",
+      "Destino": "Configurações > Parâmetros > Parâmetros financeiros",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "parametros",
+      "Ajax": "",
+      "Destino": "Configurações > Parâmetros > Parâmetros gerais",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "planejamento_analitico",
+      "Ajax": "",
+      "Destino": "Sistema > Planejamento > Planejamento gerencial analítico",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "planejamento",
+      "Ajax": "",
+      "Destino": "Sistema > Planejamento > Planejamento gerencial",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "view_voip_sippeers_cliente",
+      "Ajax": "",
+      "Destino": "Sistema > Plataforma Voip > Pasta Ramais > Ramal SIP - Clientes",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cdr",
+      "Ajax": "",
+      "Destino": "Sistema > Plataforma Voip > Pasta Registro de chamadas > Registro de chamadas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "voip_sippeers",
+      "Ajax": "",
+      "Destino": "Sistema > Plataforma Voip > Pasta Ramais > Ramal SIP - Clientes > Novo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "visualizar_range_numeros",
+      "Ajax": "",
+      "Destino": "Sistema > Plataforma Voip > Pasta  Visualizar range de números",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "tarifas_grupos",
+      "Ajax": "",
+      "Destino": "Sistema > Plataforma Voip > Pasta Tarifação > Plano de tarifas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "planos_voip",
+      "Ajax": "",
+      "Destino": "Sistema > Plataforma Voip > Pasta Ramais > Ramal SIP - Clientes > Configurações adicionais > Buscar plano",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "voip_did",
+      "Ajax": "",
+      "Destino": "Sistema > Plataforma Voip > Pasta Ramais - Ramal SIP - Clientes > DIDs (Algumas integrações apenas)",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "wfl_tarefa",
+      "Ajax": "",
+      "Destino": "Configurações > Processos > Tarefas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "wfl_processo",
+      "Ajax": "",
+      "Destino": "Configurações > Processos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "wfl_interacoes",
+      "Ajax": "",
+      "Destino": "Configurações > Processos > Tarefas > Interações",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "wfl_parametro_oss",
+      "Ajax": "",
+      "Destino": "Configurações de ordem de serviço",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radgrupos",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Planos de velocidades",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radusergroup",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Radius > Planos X Logins",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radusuarios_consumo",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Logins >  Consumo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "auth_usuarios",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Autenticação Radius > Usuários",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radusuarios_consumo_d",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Logins >  Consumo diário",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Transmissores > POP - Ponto de transmissão",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radgrupos",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Planos de velocidades",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "teste_de_conexao",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Concentradores (NAS) > Teste de conexão",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Transmissores > POP - Ponto de transmissão >  Transmissores",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_historico",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) >  Histórico de potenciação",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fh_onu_nao_autorizadas",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Autorizar ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU)",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "desconectar_clientes",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Logins > Desconectar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radacct",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Radius > Conexões Radius",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "consultar_onu",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Autorizar ONU's > Consultar todas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "select_id_olt",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Autorizar ONU > Consultar por OLT",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "autorizar_onu",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Autorizar ONU's > Autorizar ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radgroupreply",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Planos de velocidades > Resposta de grupo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radgrupos_pools",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Pool IP > Pool Concentrador",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radusuarios_25452",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Logins > Limpar MAC",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_ocorrencias",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta  Ocorrências/Soluções",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fh_onu_nao_autorizadas_22396",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Autorizar ONUs > Autorizar ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_perfil",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Transmissores > Perfil cliente fibra",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_gravar_dispositivo_22408",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Clientes Fibra (ONU) > Integração OLT > Gravar dispositivo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_excluir_dispositivo_22434",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Clientes Fibra (ONU) > Integração OLT > Excluir no dispositivo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rad_hardware",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta  Hardware",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_22991",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Clientes Fibra (ONU) > Potência/Resumo ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radusuarios",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Logins",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "grid_radpop_radio_porta_fibra",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Transmissores > Interface radio (grid)",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_olt_slot",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Transmissores (OLT) > Slot",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Transmissores (OLT) > Cliente rádio",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_26379",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Integração ONU > Reboot ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_29661",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Clientes Fibra (ONU) > Potência/Resumo ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_24701",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Integração ONU > Visualizar Script ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_22407",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Integração OLT > Visualizar script",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_24700",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Integração ONU > Gravar na ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_22952",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Integração ONU > Alterar credenciais no dispositivo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_28120",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Integração ONU > Libera acesso web",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_24699",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Integração ONU > Resetar ONU",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "sincronizar_dispositivo_acs",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta ACS > Dispositivos > Sincronizar",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radippoolfixo_lista",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Pool IP > IP Fixo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "speed_test_resultados",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta SpeedTest > Resultados SpeedTest",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_24730",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Logins > log radius > Concentrador",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botaoAjax_30774",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta ACS > Dispositivos > Enviar dados ACS > Wifi",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "acs_device_grid",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta ACS > Dispositivos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radauth_nas",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Pasta Autenticação Radius > Concentradores autorizados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radusuarios_consumo_m",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Logins >  Consumo mensal",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_baixas",
+      "Ajax": "",
+      "Destino": "Receber > Recebimentos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "get_boleto",
+      "Ajax": "",
+      "Destino": "Sistema > Contas a receber > Imprimir boleto",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_altera",
+      "Ajax": "",
+      "Destino": "Receber > Altera a receber",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "get_pix",
+      "Ajax": "",
+      "Destino": "Receber > Contas a receber > Ações > Copiar código PIX",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "estornar_cancelamento",
+      "Ajax": "",
+      "Destino": "Receber > Contas a receber > Estornar cancelamento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber",
+      "Ajax": "",
+      "Destino": "Receber > Contas a receber",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "calcula_juros_multa",
+      "Ajax": "",
+      "Destino": "Receber > Renegociação > Parcelamento > Calcular multa/juros",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "adicionar_titulo_renegociacao",
+      "Ajax": "",
+      "Destino": "Renegociação > Editar > Em renegociação > Adicionar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "remover_titulo_renegociacao",
+      "Ajax": "",
+      "Destino": "Renegociação > Editar > Em renegociação > Remover",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rfn_cliente",
+      "Ajax": "",
+      "Destino": "Relatórios de Cadastros > Cadastros > Relatórios de clientes",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rcp_produtos_imprimir_23072",
+      "Ajax": "",
+      "Destino": "Relatórios > Relatórios de Estoque > Relatório de produtos > Imprimir",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rcp_produtos_imprimir_agrupado_filial_12688",
+      "Ajax": "",
+      "Destino": "Relatórios > Relatórios de Estoque > Relatório de produtos > Imprimir Agrupado por filial",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rcp_produtos_imprimir_agrupado_grupo_12708",
+      "Ajax": "",
+      "Destino": "Relatórios > Relatórios de Estoque > Relatório de produtos > Imprimir Agrupado por subgrupo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rcp_produtos_imprimir_agrupado_amox_22890",
+      "Ajax": "",
+      "Destino": "Relatórios > Relatórios de Estoque > Relatório de produtos > Imprimir Agrupado por almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rcp_inventario_por_tecnico_imprimir_agrupado_almox_23941",
+      "Ajax": "",
+      "Destino": "Relatórios > Relatórios de Estoque > Relatório de Inventário de Estoque por Colaborador > Imprimir agrupado por almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rfn_bloqueio_cliente_comodatos_21558",
+      "Ajax": "",
+      "Destino": "Relatórios > Relatórios contratos > Relatórios contratos > Comodato",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_25740",
+      "Ajax": "",
+      "Destino": "Relatórios > Relatórios fiscais > Pasta Relatórios notas modelo 21 > Imprimir NF 21/22 > Imprimir do modelo personalizado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_19314",
+      "Ajax": "",
+      "Destino": "Relatórios > Relatórios fiscais > Pasta Relatórios notas modelo 21 > Imprimir NF 21/22 > Imprimir NF 21/22",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "imprimir_venda",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Venda > Botão Imprimir > Venda",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "validar_finalizar_saida",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Finalizar saída > Validar e finalizar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_saida",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Venda",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_movim_finan",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Venda > Contabilidade",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_saida_24205",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Venda > Duplicar (antigo)",
+      "Liberado": "Old",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_saida_nfe",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Venda > Finalizar saída > Tributos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_pedido_venda",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Pasta Pedidos > Pedido de venda",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_saida_produtos",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Venda > Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "pedido_os",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Pasta Pedidos > Pedido de ordem de serviço",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_saida_25738",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Venda > Imprimir > Modelo personalizado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_saida_fat_os",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Pasta Pedidos > Pedidos de ordem de serviço",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "imprimir_nota",
+      "Ajax": "",
+      "Destino": "Sistema > Saídas > Venda > Botão Imprimir > Nota fiscal",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_mensagem",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Mensagens/Interações",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_arquivos",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço >  Arquivos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_executar",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Ações > Executar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_fechar",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Ações > Finalizar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_evento",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Pasta Sistema > Cadastros > Eventos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_ticket_arquivos",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Atendimentos >  Arquivos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_produto",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço >  Produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_analisar",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Ações > Analisar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_executar",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Ações > Executar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_transf_atendimento",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Atendimentos > Ações > Transferências",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_transf_atendimento_26466",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Atendimentos > Ações > Transferir",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_alterar_setor",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Ações > Encaminhar/Encaminhar (alterar setor)",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_arquivos_wiz",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Finalizar Wizard > Anexos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_assunto",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Pasta Sistema > Cadastros > Assuntos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_comissao",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço >  Comissão",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_mensagens",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Atendimentos >  Mensagens",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_comodato",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Produtos",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_fechar_wiz",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Finalizar wizard",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_diagnostico",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Pasta Sistema > Cadastros > Diagnósticos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_reagendamento",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Ações > Agendar/Reagendar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_reagendar",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Ações > Agendar/Reagendar",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "baixar_comodato_23441",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Comodato > Baixar > Meu almoxarifado",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_comodato_wiz",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Finalizar Wizard > Comodatos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_adic_mens",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Adicional mensalidade",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "funcionarios_equipes",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Pasta Sistema > Cadastros > Equipes > Colaboradores da Equipe",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "view_funcionarios_setor",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_servico",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Serviços",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_23367",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Outras ações > Enviar E-mail ao técnico",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_respostas",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Pasta Sistema > Cadastros > Respostas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_modelo_impressao",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Pasta Sistema > Cadastros > OS Modelos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_produto_wiz",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Finalizar Wizard > Produtos",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_servico_wiz",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Finalizar Wizard > Serviços",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_adic_mens_wiz",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Finalizar Wizard > Adicionar Mensalidade",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_ticket",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Atendimentos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_22873",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Imprimir > Do modelo de OS (Modelo personalizado)",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_equipe",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Pasta Sistema > Cadastros > Equipes",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_ticket_arquivos_28010",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Atendimentos > Arquivos > Visualizar Arquivo",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_evento_status",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Mensagens/Interações > Evento de status",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_produto_estrutura",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Finalizar Wizard > Produtos imobilizados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_produto_estrutura_consumo",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Finalizar Wizard > Outros produtos",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_regiao_manutencao_radusuarios",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Ordem de Serviço > Logins afetados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_wiz_estruturas",
+      "Ajax": "",
+      "Destino": "Sistema > Suporte > Finalizar Wizard",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "usuarios",
+      "Ajax": "",
+      "Destino": "Configurações > Usuários > Usuários",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "filial_usuario",
+      "Ajax": "",
+      "Destino": "Usuários > Usuários >  Filiais",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "almox_usuario",
+      "Ajax": "",
+      "Destino": "Usuários > Usuários >  Almoxarifados",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "df_categoria_tipo",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('df_categoria_tipo')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "df_coordenada",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('df_coordenada')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "ajuste_inventario",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('ajuste_inventario')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "central_bloqueio_ip",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('central_bloqueio_ip')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contrato_retornar_produtos_contrato_28145",
+      "Ajax": "",
+      "Destino": "Oculto na interface - Retorna os produtos do Contrato",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "pais",
+      "Ajax": "",
+      "Destino": "Sistema > Cadastros > Pasta Locais > Cidade > Editar UF > Editar País",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_pagar_26409",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botaoAjax_29160",
+      "Ajax": "",
+      "Destino": "Sistema > Estoque > Pasta Transferências > Transferência com confirmação > Confirmar",
+      "Liberado": "Old",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_trial_chave",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "df_tipo_elemento_regiao_plano",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "diagnostico_cliente",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "entrada_comodatos",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_recebimentos_baixas",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "gerar_protocolo_atendimento",
+      "Ajax": "",
+      "Destino": "Gerar Protocolo Atendimento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "gerar_protocolo_ordem_servico",
+      "Ajax": "",
+      "Destino": "Gerar Protocolo Ordem de serviço",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "listar_roteadores_do_cliente",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "movimento_produtos",
+      "Ajax": "",
+      "Destino": "Todas as movimentações de produtos do sistema",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "patrimonio_disponivel_single_select",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radpop_radio_cliente_fibra_28571",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Liberar Rota FTTH",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "renegociar_selecionados",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_devolucao_material_29200",
+      "Ajax": "",
+      "Destino": "getAlmoxarifadosOnChangeColaboradorDestinoAction",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "retornar_deptos_contrato",
+      "Ajax": "",
+      "Destino": "Retornar os departamentos do contrato",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "retornar_deptos_usuario",
+      "Ajax": "",
+      "Destino": "Retornar os departamentos do usuário",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "retornar_funcionario_ramal",
+      "Ajax": "",
+      "Destino": "Retornar os funcionários do ramal",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "retornar_logo_app",
+      "Ajax": "",
+      "Destino": "Retorna a Logo do Aplicativo da Central",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "retornar_usuarios_depto",
+      "Ajax": "",
+      "Destino": "Retorna os usuários que fazem parte de um determinado departamento.",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "sincronizar_olt_22397",
+      "Ajax": "",
+      "Destino": "Sistema > Provedor > Cliente Fibra (ONU) > Sincronizar OLT (oculto)",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_mensagens_cliente",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_transf_automatica_29446",
+      "Ajax": "",
+      "Destino": "Transferência automática > Transferir",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_transf_automatica_29447",
+      "Ajax": "",
+      "Destino": "Transferência automática > Ajax_filial_os",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_mov_comodato_wiz_novo",
+      "Ajax": "",
+      "Destino": "Inserir comodato na Ordem de Serviço pelo wizard, é a mesma Rota de su_oss_mov_comodato_wiz",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_ticket_26468",
+      "Ajax": "",
+      "Destino": "Retorna a data/hora atual",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_ticket_26885",
+      "Ajax": "",
+      "Destino": "Retorna o id do atendimento que teve uma última transferência",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_ticket_26886",
+      "Ajax": "",
+      "Destino": "Retorna o ID do setor do Atendimento",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "uf",
+      "Ajax": "",
+      "Destino": "Editando Cidade > Editando UF",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "validate_mac",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "vd_saida_comodatos",
+      "Ajax": "",
+      "Destino": "Retorna produtos que estão na cliente_contrato_comodatos com a vd_saidas",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cidade_bairro",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('cidade_bairro')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_cedente_envioArquivo",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('fn_areceber_cedente_envioArquivo')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_recebimentos",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('fn_areceber_recebimentos')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_patrimonio",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('Requisicao_patrimonio')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "funcionario_setor2",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('funcionario_setor2')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "inventario_estoque",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('inventario_estoque')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "inventario_estoque_almox",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('inventario_estoque_almox')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "planejamento_analitico_finan",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('planejamento_analitico_finan')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radusuarios_cliente_fibra",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('radusuarios_cliente_fibra')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "radusuarios_cunsumo_mensal",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('radusuarios_cunsumo_mensal')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "rsu_oss_atendimento",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('rsu_oss_atendimento')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_canal_atendimento",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('su_canal_atendimento')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_mov_transf_atendimento",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('su_mov_transf_atendimento')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "transf_almox_patrimonio_wizard",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('transf_almox_patrimonio_wizard')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "view_prod_estoque_almox",
+      "Ajax": "",
+      "Destino": "Acesse F12 > Coloque no console o comando: IXC.form('view_prod_estoque_almox')",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "view_estoque_produtos_almox_filial",
+      "Ajax": "",
+      "Destino": 404,
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "assinar_contrato",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "assinar_termo",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "atualiza_wifi",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_Ajax_30002",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botao_rel_30001",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botaoAjax_27931",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botaoAjax_28509",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "botaoAjax_29158",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "buscar_endereco_completo_26307",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "chamada_ura",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cidade_bairro",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_contato",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "confirm_rec_material_31524",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "converter_cliente",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "emrpesa_setor",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "enviar_wifi_acs",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "❌",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_26382",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "fn_areceber_agrupamento",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "get_pix_parameter",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "health_check",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "imprimir_proposta",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "recebimento_via_cartao_opasuite",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "Requisicao_material_item_27795",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_fechar_wiz_29956",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_oss_chamado_reagendar_28895",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "su_transf_atendimento_26521",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "sync_licenses_fn",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "transf_almox_patrimonio_wizard",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "verificar_produto_service",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "view_prod_estoque_almox",
+      "Ajax": "",
+      "Destino": "",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_chave",
+      "Ajax": "",
+      "Destino": "Somente status 200",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_chave_recuperacao",
+      "Ajax": "",
+      "Destino": "Somente status 200",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_chave_status",
+      "Ajax": "",
+      "Destino": "Somente status 200",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "cliente_chave2",
+      "Ajax": "",
+      "Destino": "Somente status 200",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    },
+    {
+      "Rota": "contract_plans",
+      "Ajax": "",
+      "Destino": "Somente status 200",
+      "Liberado": "✅",
+      "Jira": "",
+      "Requisicao": ""
+    }
+  ]

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Suporte Integrações/API</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="description" content="">
+  <link rel="stylesheet" href="App.css">
+  <!-- Ícone (opcional) -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+  <div class="topo">
+
+    <!-- Abas de navegação -->
+    <div class="tabs">
+      <button class="tab" id="apiTab">API</button>
+      <button class="tab" id="integraçõesTab">Integrações Gerais</button>
+    </div>
+
+    <!-- Formulário de busca -->
+    <form class="formulario">
+      <input type="text" id="meuInput" placeholder="Digite e pressione Enter" />
+    </form>
+
+    <!-- Link para perfil -->
+    <a class="botao-perfil" href="https://github.com/asafebernardo" title="Ir para o perfil" target="_blank">
+      <img src="asafe.png" alt="Perfil" class="icone-perfil">
+      <span class="texto-perfil">Feito por Asafe Bernardo</span>
+    </a>
+  </div>
+
+  <!-- Conteúdo a ser exibido conforme a aba selecionada -->
+  <div class="retorno" id="conteudoApi">
+    <!-- Exibe conteúdo da API aqui -->
+    <p>Conteúdo relacionado à API...</p>
+  </div>
+  <div class="retorno" id="conteudoIntegrações" style="display: none;">
+    <!-- Exibe conteúdo de Integrações Gerais aqui -->
+    <p>Conteúdo relacionado a Integrações Gerais...</p>
+  </div>
+
+  <script src="App.js" async defer></script>
+
+  <!-- Código JavaScript para alternar entre as abas -->
+  <script>
+    // Seleciona as abas
+    const apiTab = document.getElementById('apiTab');
+    const integraçõesTab = document.getElementById('integraçõesTab');
+    
+    // Seleciona os conteúdos das abas
+    const conteudoApi = document.getElementById('conteudoApi');
+    const conteudoIntegrações = document.getElementById('conteudoIntegrações');
+
+    // Função para alternar entre as abas
+    apiTab.addEventListener('click', () => {
+      conteudoApi.style.display = 'block';
+      conteudoIntegrações.style.display = 'none';
+      apiTab.classList.add('active');
+      integraçõesTab.classList.remove('active');
+    });
+
+    integraçõesTab.addEventListener('click', () => {
+      conteudoApi.style.display = 'none';
+      conteudoIntegrações.style.display = 'block';
+      integraçõesTab.classList.add('active');
+      apiTab.classList.remove('active');
+    });
+  </script>
+</body>
+</html>

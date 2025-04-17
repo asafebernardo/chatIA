@@ -1,0 +1,21 @@
+[
+    {
+        "Plataforma": "Chatmix",
+        "ModuloPago":"Nao",
+        "Departamento": "Integrações Gerais",
+        "Tipo": "SMS",
+        "Descricao": "Integração de chatbot e sms",
+        "Serviços/Planos": "Chatbot",
+        "Documentacao": ""
+    },
+
+    {
+        "Plataforma": "CDNTV",
+        "ModuloPago":"Sim",
+        "Departamento": "API",
+        "Tipo": "TV",
+        "Descricao": "Servicos de TV",
+        "Serviços/Planos": "Disney",
+        "Documentacao": ""
+      }
+]

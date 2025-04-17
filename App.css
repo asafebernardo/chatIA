@@ -1,0 +1,199 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+    font-family: "Segoe UI", sans-serif;
+    background: linear-gradient(to bottom, #2c2c2c, #1c1c1c);
+    color: #fff;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* Campo de input */
+input {
+    outline: none;
+    width: 100%;
+    max-width: 450px;
+    height: 50px;
+    background: linear-gradient(to right, #1e1e1e, #2e2e2e);
+    color: #fff;
+    border: 1px solid #555;
+    border-radius: 30px;
+    padding: 0 20px;
+    font-size: 16px;
+    transition: 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+input:focus {
+    border-color: #00bfff;
+    box-shadow: 0 0 10px #00bfff66;
+    background: linear-gradient(to right, #2a2a2a, #3a3a3a);
+}
+
+input::placeholder {
+    color: #aaa;
+    font-style: italic;
+}
+
+/* Topo fixo */
+.topo {
+    background-color: #111;
+    padding: 10px 20px;
+    border-bottom: 1px solid #444;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Tabs */
+.tabs {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.tab {
+    background-color: #444;
+    color: rgb(204, 204, 204);
+    padding: 10px 20px;
+    border: 1px solid #333;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.tab:hover {
+    background-color: #555;
+}
+
+.tab.active {
+    background-color: #00bfff;
+}
+
+/* Conteúdo */
+.retorno {
+    margin-top: 70px;
+    padding: 30px 20px;
+    width: 100%;
+    min-height: calc(100vh - 70px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background: linear-gradient(to bottom, #3a3a3a, #2b2b2b, #1a1a1a);
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    padding: 0 20px;
+}
+
+/* Card */
+.card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid #555;
+  border-radius: 16px;
+  padding: 20px;
+  width: 100%;
+  max-width: 600px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(4px);
+  transition: transform 0.2s ease;
+  text-align: left;
+}
+
+.card:hover {
+  transform: scale(1.01);
+  border-color: #888;
+}
+
+.card p {
+  margin: 8px 0;
+}
+
+.card strong {
+  color: #ddd;
+}
+
+/* Indicadores */
+.liberado {
+  color: #4caf50;
+  font-weight: bold;
+}
+
+.bloqueado {
+  color: #f44336;
+  font-weight: bold;
+}
+
+/* Ícone de perfil com botão */
+.botao-perfil {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.perfil-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.icone-perfil {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #696969;
+    transition: 0.3s ease;
+}
+
+.icone-perfil:hover {
+    transform: scale(1.1);
+    border-color: #00bfff;
+}
+
+.texto-perfil {
+    font-size: 14px;
+    color: #e4e4e4;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.botao-perfil:hover .texto-perfil {
+    color: #00bfff;
+}
+
+/* Media query para esconder texto quando o espaço for pequeno */
+@media (max-width: 1100px) {
+  .texto-perfil {
+    display: none; /* Esconde o texto */
+  }
+
+  .icone-perfil {
+    width: 30px; /* Diminui o tamanho do ícone */
+    height: 30px; /* Diminui o tamanho do ícone */
+  }
+}
